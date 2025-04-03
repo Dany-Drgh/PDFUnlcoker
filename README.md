@@ -84,21 +84,15 @@ python CLI_PDFUnlocker_v1.1.py [-h] [-d DIRECTORY] [-i INPUT_FILE] [-o OUTPUT_FI
 
 ```plaintext
 PDFUnlocker/
-├── README.md
-├── LICENSE
-├── PDFUnlocker.exe [Added here for convenience]
-├── PDFUnlocker_v1.1.py
-├── PDFUnlocker.spec
-├── dist/
-│   └── PDFUnlocker.exe [orginal .exe file location]
-├── build/
-│   └── PDFUnlocker/
-│       └── [build files]
 |── icons/
 │   └── icon.ico
 ├── CLI_pdf_unlocker_v1.1.py
-├── version.txt
+├── LICENSE
+├── PDFUnlocker_v1.1.py
+├── PDFUnlocker.exe [Added here for convenience]
+├── README.md
 └── requirements.txt
+├── version.txt
 ```
 
 ---
