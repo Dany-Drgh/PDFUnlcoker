@@ -42,6 +42,12 @@ Once you have the `PDFUnlocker.exe` file, you can run it directly from the comma
 - **Directory Mode:** Run the executable and specify a directory to unlock all PDF files within it.
 - **Single File Mode:** Run the executable and follow the prompts to unlock a single PDF file.
 
+## Contact & Support
+
+For any questions, issues, or feature requests, please open an issue in the GitHub repository or contact me directly, either on GitHub, via email at 
+danydarghouth@gmail.com, or on X at [@dany_drgh
+](https://x.com/dany_drgh).
+
 ## 📜 Usage (Python Script)
 
 ### Requirements
@@ -78,21 +84,6 @@ python CLI_PDFUnlocker_v1.1.py [-h] [-d DIRECTORY] [-i INPUT_FILE] [-o OUTPUT_FI
 
 - `-o OUTPUT_FILE`, `--output_file OUTPUT_FILE`
                     Path to the output PDF file (when not in directory mode) (optional), defaults to input_file_unlocked.pdf
-
----
-## Repository Structure
-
-```plaintext
-PDFUnlocker/
-|── icons/
-│   └── icon.ico
-├── CLI_pdf_unlocker_v1.1.py
-├── LICENSE
-├── PDFUnlocker_v1.1.py
-├── README.md
-└── requirements.txt
-├── version.txt
-```
 
 ---
 *Dany A. Darghouth - April 2025*
