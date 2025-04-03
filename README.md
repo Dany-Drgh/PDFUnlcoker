@@ -28,7 +28,7 @@ It works in two modes:
 
 ## 📥 Download & Installation
 
-You can download the standalone `.exe` file and run it directly — no installation required.
+You can download the standalone `.exe` file from the [releases section of this repository](https://github.com/Dany-Drgh/PDFUnlcoker/releases). This executable is built using `PyInstaller` and includes all necessary dependencies, so you can simply download it, extract it, and run it directly — no installation required.
 
 If you're using the Python script instead, continue below.
 
@@ -89,7 +89,6 @@ PDFUnlocker/
 ├── CLI_pdf_unlocker_v1.1.py
 ├── LICENSE
 ├── PDFUnlocker_v1.1.py
-├── PDFUnlocker.exe [Added here for convenience]
 ├── README.md
 └── requirements.txt
 ├── version.txt
